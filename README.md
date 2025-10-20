@@ -51,7 +51,7 @@ The frontend communicates with a **Spring Boot** backend (`http://localhost:8081
 | MongoDB         | Database for storing server data|
 
 ---
-
+```
 Task-3-Web-UI/
 ├── public/
 ├── src/
@@ -63,8 +63,7 @@ Task-3-Web-UI/
 │ └── index.js
 ├── package.json
 └── README.md
-
----
+```
 
 ## ✅ Prerequisites
 
