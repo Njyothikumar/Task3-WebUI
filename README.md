@@ -52,8 +52,6 @@ The frontend communicates with a **Spring Boot** backend (`http://localhost:8081
 
 ---
 
-## 📂 Project Structure
-
 Task-3-Web-UI/
 ├── public/
 ├── src/
@@ -65,9 +63,6 @@ Task-3-Web-UI/
 │ └── index.js
 ├── package.json
 └── README.md
-
-yaml
-Copy code
 
 ---
 
